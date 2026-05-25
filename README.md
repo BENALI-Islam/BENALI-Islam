@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 An AI Engineer & Software Developer</h1>
+  <h1> An AI Engineer & Software Developer</h1>
   <p><i>Transforming data and logic into intelligent, adaptive digital ecosystems.</i></p>
 
   <p align="center">
