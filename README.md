@@ -3,9 +3,9 @@
   <p><i>Transforming data and logic into intelligent, adaptive digital ecosystems.</i></p>
 
   <p align="center">
-    🔹 <b>Working on:</b> <kbd>Adaptive Learning</kbd> <br/>
-    🧠 <b>Learning:</b> <kbd>Agentic AI</kbd> <br/>
-    💬 <b>Ask me about:</b> <kbd>Generative AI</kbd>
+    <b>Working on:</b> <kbd>Adaptive Learning</kbd> <br/>
+    <b>Learning:</b> <kbd>Agentic AI</kbd> <br/>
+   <b>Ask me about:</b> <kbd>Generative AI</kbd>
   </p>
   
   <br/>
